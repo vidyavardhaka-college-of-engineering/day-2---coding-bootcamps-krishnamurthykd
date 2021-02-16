@@ -6,7 +6,8 @@ int main()
 //Replace Your Code and values in bellow two lines
 int a = 18;
 float w = 66;
-
+printf("%d\n",a);
+printf("%f\n",w);
 //If you done correct you will get this meessage 
 printf("Good Job..");
 
