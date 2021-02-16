@@ -3,9 +3,9 @@
 int main()
 {
 //Write your code bellow
+char c='#';
 
-
-//if you write correct code fallowing output will print
+//if you write correct code following output will print
 printf("%c\n",c);
 printf("Good job..");
 return 0;
